@@ -1,0 +1,26 @@
+#chatDisplay {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.alert{
+    margin-top: 20px;
+}
+
+body {
+    background-size: cover;
+    background-image: url("../images/paper.jpg")
+}
+
+.jumbotron {
+    padding: 10px;
+    background: none; 
+}
+
+.card {
+    background: none;
+}
+
+.rps {
+    background-color: white;
+}
