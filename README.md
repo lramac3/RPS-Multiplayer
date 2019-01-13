@@ -5,7 +5,7 @@ The main goal of this project was to create the game rock, paper, scissors, usin
 
 Built With
 
-    HTML
-    JavaScript / jQuery
-    CSS / Bootstrap
-    Firebase
+ - HTML
+ - JavaScript / jQuery
+ - CSS / Bootstrap
+ - Firebase
